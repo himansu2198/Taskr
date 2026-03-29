@@ -65,13 +65,20 @@ A full-stack task management application with authentication, role-based access 
 > Add your screenshots here
 
 ### 🔹 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+Users:-
+<img width="1843" height="674" alt="image" src="https://github.com/user-attachments/assets/0cb56598-0ea7-40a6-8805-1c0b745ca0f5" />
+Admin:-
+<img width="1844" height="722" alt="image" src="https://github.com/user-attachments/assets/d43a69a6-f387-468c-9b36-0482c6b26db3" />
+
 
 ### 🔹 Login Page
-![Login](./screenshots/login.png)
+<img width="885" height="663" alt="image" src="https://github.com/user-attachments/assets/65df0633-b504-48c4-83c3-1064d48b570f" />
+
 
 ### 🔹 Register Page
-![Register](./screenshots/register.png)
+<img width="978" height="778" alt="image" src="https://github.com/user-attachments/assets/5b3648a3-82ae-4565-a56c-d62161327b9a" />
+
+
 
 ---
 
